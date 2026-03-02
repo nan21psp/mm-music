@@ -1,5 +1,6 @@
-pyrofork
-aiogram
+pyrogram==2.0.106
+#pyrofork
+#aiogram
 opencv-python-headless==4.10.0.84
 telethon==1.36.0
 aiofiles
@@ -41,5 +42,5 @@ googlesearch-python
 unidecode
 #git+https://github.com/joetats/youtube_search@master
 #git+https://github.com/alexmercerind/youtube-search-python@main
-https://github.com/KurimuzonAkuma/pyrogram/archive/v2.1.23.zip
+#https://github.com/KurimuzonAkuma/pyrogram/archive/v2.1.23.zip
 bing_image_downloader
